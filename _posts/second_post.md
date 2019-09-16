@@ -1,6 +1,6 @@
 ---
 layout:  post
-title: my first blog post
+title: my second post
 ---
 
 Hello, this is my second post.
